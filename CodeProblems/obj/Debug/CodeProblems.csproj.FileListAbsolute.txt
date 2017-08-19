@@ -1,1 +1,6 @@
 F:\Work\CodeProblems\CodeProblems\CodeProblems\bin\Debug\CodeProblems.exe.config
+F:\Work\CodeProblems\CodeProblems\CodeProblems\bin\Debug\CodeProblems.exe
+F:\Work\CodeProblems\CodeProblems\CodeProblems\bin\Debug\CodeProblems.pdb
+F:\Work\CodeProblems\CodeProblems\CodeProblems\obj\Debug\CodeProblems.csprojResolveAssemblyReference.cache
+F:\Work\CodeProblems\CodeProblems\CodeProblems\obj\Debug\CodeProblems.exe
+F:\Work\CodeProblems\CodeProblems\CodeProblems\obj\Debug\CodeProblems.pdb

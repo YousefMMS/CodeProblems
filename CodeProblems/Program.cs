@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CodeProblems.Problems;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +11,11 @@ namespace CodeProblems
     {
         static void Main(string[] args)
         {
-            //
-            // just uncomment the portion code block to run
-            //
+            //------------------------------------------------------//
+            //------------------------------------------------------//
+            // --- just uncomment the portion code block to run --- //
+            //------------------------------------------------------//
+            //------------------------------------------------------//
 
 
             //var res = Problems.GetOddNumsBetweenTwoInputs.oddNumbers(4, 20);
@@ -21,6 +24,11 @@ namespace CodeProblems
             //var res = Problems.LeftRotaionArray.leftRotateArray(arr, 5, 2);
             //Problems.LeftRotaionArray.printArray(res);
 
+            //Polygons.CheckPolygon();
+
+            //ValidBytes.CheckIfValidBytes();
+
+            CustomerServiceHotline.CustomerServiceHotlineRequired();
         }
     }
 }
