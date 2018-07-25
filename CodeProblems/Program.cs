@@ -24,11 +24,23 @@ namespace CodeProblems
             //var res = Problems.LeftRotaionArray.leftRotateArray(arr, 5, 2);
             //Problems.LeftRotaionArray.printArray(res);
 
+            //var string1 = "cxxde";
+            //var string2 = "abxxc";
+            //var res = 
+            //    Problems.AnagramsStrings.NumbersRequiredToDeleteFromBothStrings(string1, string2);
+
             //Polygons.CheckPolygon();
 
             //ValidBytes.CheckIfValidBytes();
 
-            CustomerServiceHotline.CustomerServiceHotlineRequired();
+            //CustomerServiceHotline.CustomerServiceHotlineRequired();
+
+            var rowMag = "two times three is not four";
+            var rowRansom = "two times two is four";
+            if (HashtableRansomNote.HashtableProblem(rowMag, rowRansom))
+                Console.WriteLine("Yes");
+            else
+                Console.WriteLine("No");
         }
     }
 }

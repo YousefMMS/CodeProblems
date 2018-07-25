@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DisposableWrapper.cs" />
     <Compile Include="Problems\AnagramsStrings.cs" />
     <Compile Include="Problems\CustomerServiceHotline.cs" />
+    <Compile Include="Problems\HashtableRansomNote.cs" />
     <Compile Include="Problems\ValidBytes.cs" />
     <Compile Include="Problems\Polygons.cs" />
     <Compile Include="Problems\GetOddNumsBetweenTwoInputs.cs" />
